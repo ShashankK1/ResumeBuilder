@@ -1,0 +1,9 @@
+.Right{
+    flex-grow: 5;
+    display: flex;
+    justify-content: center;
+}
+.edit{
+    height:60vh;
+    overflow-y: auto;
+}
